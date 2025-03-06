@@ -5,10 +5,6 @@ nav_order: 2
 ---
 
 # Callouts
-{: .d-inline-block }
-
-New (v0.4.0)
-{: .label .label-green }
 
 Markdown does not include support for callouts. However, you can style text as a callout using a Markdown extension supported by kramdown: [*block IALs*](https://kramdown.gettalong.org/quickref.html#block-attributes).
 
