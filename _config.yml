@@ -1,12 +1,14 @@
 title: "docs.mmaxii.xyz"
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+url: "https://docs.mmaxii.xyz/"
+
+permalink: pretty
 
 # Customization
 color_scheme: "dark"
 favicon_ico: "/assets/images/favicon.ico"
 
-url: "https://mmaxii-xyz.github.io/docs"
 
 callouts_level: quiet # or loud
 callouts:
