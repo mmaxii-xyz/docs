@@ -21,7 +21,7 @@ search:
   button: true 
   focus_shortcut_key: "k"
 
-callouts_level: loud # or loud
+callouts_level: loud # or quiet
 callouts:
   highlight:
     color: yellow
