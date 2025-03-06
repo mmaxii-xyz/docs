@@ -4,13 +4,22 @@ body {
 }
 
 .sidebar {
-  background-color: #121212;
+  background-color: #121212 !important;
 }
 
 .search-input {
   background-color: #121212;
+  color: #ffffff;
 }
 
 .search {
   background-color: #121212;
+}
+
+.sidebar a:hover {
+  color: #bbbbbb;
+}
+
+.nav-list .active {
+  color: #ffcc00;
 }
