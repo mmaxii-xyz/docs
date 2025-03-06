@@ -7,3 +7,7 @@ color_scheme: "dark"
 favicon_ico: "/assets/images/favicon.ico"
 
 url: "https://mmaxii-xyz.github.io/docs"
+
+# Custom styles
+sass:
+  custom_css: _sass/custom/custom.scss
