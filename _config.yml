@@ -10,7 +10,7 @@ color_scheme: "dark"
 favicon_ico: "/assets/images/favicon.ico"
 
 
-callouts_level: quiet # or loud
+callouts_level: loud # or loud
 callouts:
   highlight:
     color: yellow
