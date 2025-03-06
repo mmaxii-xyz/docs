@@ -19,6 +19,11 @@ body {
   color: #bbbbbb;
 }
 
-.nav-list .active {
-  color: #644e8f;
+$primary-color: #644e8f; // SCSS variable
+
+:root {
+  --brand-color: #644e8f; /* Navbar links, active tab */
+  --link-color: #644e8f; /* Links */
+  --btn-primary-bg: #644e8f; /* Buttons */
 }
+
