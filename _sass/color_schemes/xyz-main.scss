@@ -6,11 +6,11 @@ $link-color: #A58BC7;
 $nav-child-link-color: $grey-lt-300;
 $sidebar-color: #121212;
 $base-button-color: $grey-dk-250;
-$btn-primary-color: $blue-200;
-$code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
-$code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
+$btn-primary-color: #A58BC7;
+$code-background-color: #242424; // OneDarkJekyll default for syntax-one-dark-vivid
+$code-linenumber-color: #242424; // OneDarkJekyll .nf for syntax-one-dark-vivid
 $feedback-color: darken($sidebar-color, 3%);
-$table-background-color: $grey-dk-250;
-$search-background-color: $grey-dk-250;
-$search-result-preview-color: $grey-dk-000;
-$border-color: $grey-dk-200;
+$table-background-color: #a62121; // $grey-dk-250;
+$search-background-color: #a62121; // $grey-dk-250;
+$search-result-preview-color: #a62121; // $grey-dk-000;
+$border-color: #a62121; // $grey-dk-200;
