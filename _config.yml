@@ -2,4 +2,10 @@ title: docs.mmaxii.xyz
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
+# Customization
+color_scheme: dark
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+footer_content: "Copyright &copy; 2023 mmaxii.xyz."
+
 url: https://mmaxii-xyz.github.io/docs
