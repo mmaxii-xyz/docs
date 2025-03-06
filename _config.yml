@@ -51,7 +51,4 @@ compress_html:
   profile: false 
   # ignore:
   #   envs: all
-
-# Custom styles
-sass:
-  custom_css: _sass/custom/custom.scss
+  
