@@ -1,40 +1,25 @@
-// Set the overall background color
 $body-background-color: #121212;
 body {
   background-color: $body-background-color;
 }
 
-// Left sidebar (navigation panel)
-.sidebar {
+.side-bar {
   background-color: #121212 !important;
 }
 
-// Search bar background
 .search-input {
   background-color: #121212;
-  color: #ffffff; // Ensure text is visible
+  color: #ffffff;
 }
 
-// Search bar container
 .search {
   background-color: #121212;
 }
 
-// Adjust link colors in the sidebar for visibility
-.sidebar a {
-  color: #ffffff; // White text for better contrast
-}
-
 .sidebar a:hover {
-  color: #bbbbbb; // Lighter color on hover
+  color: #bbbbbb;
 }
 
-// Change text color inside the sidebar
-.nav-list {
-  color: #ffffff;
-}
-
-// Ensure active links are visible
 .nav-list .active {
-  color: #ffcc00; // Highlight the active link (change if needed)
+  color: #ffcc00;
 }
