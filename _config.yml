@@ -9,9 +9,9 @@ permalink: pretty
 color_scheme: "dark"
 favicon_ico: "/assets/images/favicon.ico"
 
-aux_links:
-  "mmaxii.xyz":
-    - "https://mmaxii.xyz/"
+# aux_links:
+#  "mmaxii.xyz":
+#    - "https://mmaxii.xyz/"
 
 callouts_level: loud # or loud
 callouts:
